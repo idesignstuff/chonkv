@@ -1,2 +1,2 @@
-config SHIELD_CHONKV
-    def_bool $(shields_list_contains,chonkv)
+config SHIELD_NARSIL
+    def_bool $(shields_list_contains,narsil)
