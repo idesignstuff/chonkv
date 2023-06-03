@@ -1,6 +1,6 @@
-if SHIELD_CHONKV
+if SHIELD_NARSIL
 
 config ZMK_KEYBOARD_NAME
-    default "ChonkV"
+    default "Narsil"
 
 endif
